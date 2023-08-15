@@ -5,7 +5,7 @@ Sou **Francisco Félix**, possuo 23 anos, sou estudante do 8° semestre do curso
 ## Sobre o andamento do Estágio:
 O estágio consistirá em 10 sprints compostas por cursos e avaliações, além de um projeto ao final do estágio. O conteúdo das avaliações se baseará nos cursos abordados de cada sprint. Organizei um diretório para cada sprint em que terá um Readme.md com os assuntos abordados da sprint, certificados dos cursos, registros de atividades, dentre outras informações. Os diretórios das sprints serão preenchidos conforme o avanço no estágio. Abaixo segue os cursos abordados em cada em sprint:
 
-1. Sprint 01
+1. (Sprint 01)[https://github.com/ffelixl/FelixCompassUol/tree/main/Sprint%2001]
 * GIT
 * GitHub
 * Linux para desenvolvedores
