@@ -1,3 +1,5 @@
+as 5 editoras com maior quantidade de livros na biblioteca:
+
 select edt.codeditora as CodEditora, edt.nome as NomeEditora,
 count(*) as QuantidadeLivros
 from autor as au INNER join 

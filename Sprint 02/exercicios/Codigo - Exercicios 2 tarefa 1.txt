@@ -1,3 +1,5 @@
+os 10 livros mais caros:
+
 select lv.cod as CodLivro, 
 lv.titulo, au.codautor as CodAutor, au.nome as NomeAutor,
 Valor, lv.editora as CodEditora, edt.nome as NomeEditora
