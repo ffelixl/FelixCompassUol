@@ -1,0 +1,11 @@
+select edt.codeditora as CodEditora, edt.nome as NomeEditora,
+count(*) as QuantidadeLivros
+from autor as au INNER join 
+livro as lv on
+au.codautor = lv.autor INNER join
+editora as edt on
+lv.editora = edt.codeditora 
+left join endereco as end on
+edt.endereco = end.codendereco
+group by edt.nome
+limit 5

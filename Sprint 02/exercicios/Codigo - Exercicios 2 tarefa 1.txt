@@ -1,0 +1,10 @@
+select lv.cod as CodLivro, 
+lv.titulo, au.codautor as CodAutor, au.nome as NomeAutor,
+Valor, lv.editora as CodEditora, edt.nome as NomeEditora
+from livro as lv inner JOIN
+autor as au on
+lv.autor = au.codautor inner join 
+editora as edt on
+lv.editora = edt.codeditora
+order by lv.valor desc
+limit 10
