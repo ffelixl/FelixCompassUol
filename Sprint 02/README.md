@@ -22,3 +22,13 @@ Na sprint 02, foram abordados os assuntos, SQL para análise de dados, conceitos
 * Data warehouses, data lakes, data stores
 * Conceitos de ETL, Extração, transformação e carga de dados
 * Conceito de projetos envolvendo big data
+
+Nas subpastas da sprint 02, terão os códigos e imagens dos resultados da atividade da sprint referente.
+
+* [Arquivo CSV Exercicios 2 - tarefa 1](https://github.com/ffelixl/FelixCompassUol/blob/main/Sprint%2002/exercicios/Exercicios%202%20tarefa%201.csv)
+* [Arquivo CSV Exercicios 2 - tarefa 2](https://github.com/ffelixl/FelixCompassUol/blob/main/Sprint%2002/exercicios/Exercicios%202%20tarefa%202.csv)
+* [Código Exercicios 2 - tarefa 1](https://github.com/ffelixl/FelixCompassUol/blob/main/Sprint%2002/exercicios/Codigo%20-%20Exercicios%202%20tarefa%201.txt)
+* [Código Exercicios 2 - tarefa 2](hhttps://github.com/ffelixl/FelixCompassUol/blob/main/Sprint%2002/exercicios/Codigo%20-%20Exercicios%202%20tarefa%202.txt)
+
+
+### Certificados
