@@ -28,7 +28,9 @@ Nas subpastas da sprint 02, terão os códigos e imagens dos resultados da ativi
 * [Arquivo CSV Exercicios 2 - tarefa 1](https://github.com/ffelixl/FelixCompassUol/blob/main/Sprint%2002/exercicios/Exercicios%202%20tarefa%201.csv)
 * [Arquivo CSV Exercicios 2 - tarefa 2](https://github.com/ffelixl/FelixCompassUol/blob/main/Sprint%2002/exercicios/Exercicios%202%20tarefa%202.csv)
 * [Código Exercicios 2 - tarefa 1](https://github.com/ffelixl/FelixCompassUol/blob/main/Sprint%2002/exercicios/Codigo%20-%20Exercicios%202%20tarefa%201.txt)
-* [Código Exercicios 2 - tarefa 2](hhttps://github.com/ffelixl/FelixCompassUol/blob/main/Sprint%2002/exercicios/Codigo%20-%20Exercicios%202%20tarefa%202.txt)
+* [Código Exercicios 2 - tarefa 2](https://github.com/ffelixl/FelixCompassUol/blob/main/Sprint%2002/exercicios/Exercicios%202%20tarefa%202.csv)
 
 
 ### Certificados
+
+* [Curso SQL](https://github.com/ffelixl/FelixCompassUol/blob/main/Sprint%2002/certificados/certificado%20curso%20sql.jpg)
