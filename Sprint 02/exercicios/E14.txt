@@ -1,0 +1,8 @@
+Apresente a query para listar o gasto médio por estado da federação:
+
+select vas.estado,  
+round(avg(vas.qtd * vas.vrunt), 2) as gastomedio
+from tbvendas as vas 
+where vas.status = 'Concluído'
+group by vas.estado
+order by gastomedio desc

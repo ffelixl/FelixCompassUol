@@ -1,0 +1,4 @@
+Apresente a query para listar os códigos das vendas identificadas como deletadas:
+
+select vas.cdven
+from tbvendas as vas where vas.deletado = '1'

@@ -1,0 +1,15 @@
+calcule a comissão de todos os vendedores, considerando todas as vendas armazenadas na base de dados com status concluído:
+
+select nmvdd as vendedor, round(sum(valor_total_vendas), 2) as valor_total_vendas, 
+round((sum(valor_total_vendas) * perccomissao/100), 2) as comissao
+from (
+	select count(*) as vendas, 
+	(sum(vas.qtd) * vrunt) as valor_total_vendas, *
+	from tbvendas as vas left join tbvendedor as ven on
+	vas.cdvdd = ven.cdvdd
+	where vas.status = 'Concluído'
+	group by vas.cdvdd, vas.nmpro
+	order by valor_total_vendas desc
+)
+group by nmvdd 
+order by comissao desc

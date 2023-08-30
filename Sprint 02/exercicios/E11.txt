@@ -1,0 +1,12 @@
+Apresente a query para listar o código e nome cliente com maior gasto na loja:
+
+select cdcli, nmcli, valorVendas as gasto
+from (
+	select count(*) as vendas, 
+	(count(*) * vas.qtd * vrunt) as valorVendas, *
+	from tbvendas as vas 
+	where vas.status = 'Concluído'
+	group by vas.cdcli, vas.nmpro
+	order by valorVendas DESC
+	limit 1
+)

@@ -1,0 +1,8 @@
+Apresente a query para listar os 10 produtos menos vendidos pelos canais de E-Commerce ou Matriz:
+
+select cdpro, nmcanalvendas, nmpro, 
+(sum(vas.qtd)) as quantidade_vendas
+from tbvendas as vas
+where vas.status = 'Concluído'
+group by vas.nmpro, nmcanalvendas
+order by quantidade_vendas

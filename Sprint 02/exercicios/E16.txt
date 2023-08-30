@@ -1,0 +1,11 @@
+Apresente a query para listar a quantidade média vendida de cada produto agrupado por estado da federação:
+
+select estado, nmpro, quantidade_media
+from(
+	select (sum(vas.qtd) * vas.vrunt) as quantPro, 
+	round(avg(vas.qtd), 4) as quantidade_media, *
+	from tbvendas as vas 
+	where vas.status = 'Concluído'
+	group by vas.estado, vas.nmpro
+)
+order by estado, nmpro
