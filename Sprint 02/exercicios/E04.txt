@@ -1,0 +1,9 @@
+Apresente a query para listar a quantidade de livros publicada por cada autor:
+
+SELECT aut.nome, aut.codautor, aut.nascimento, 
+count(lv.cod) as quantidade
+from autor as aut left join 
+livro as lv on
+aut.codautor = lv.autor
+group by aut.nome 
+order by aut.nome

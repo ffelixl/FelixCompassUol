@@ -1,0 +1,4 @@
+Apresente a query para listar todos os livros publicados após 2014:
+
+select cod, titulo, autor, editora, valor, publicacao, edicao, idioma
+from livro where publicacao >= '2014-31-12' order by cod 

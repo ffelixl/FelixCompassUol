@@ -1,0 +1,9 @@
+Apresente a query para listar o código e nome do produto mais vendido entre as datas de 2014-02-03 até 2018-02-02:
+
+select cdpro, nmpro from (
+		select count(*) as proVendas, *  from tbvendas as ven
+		where ven.dtven BETWEEN '2014-02-03' and '2018-02-02'
+		and ven.status = 'Concluído'
+		group by ven.cdpro
+		limit 1
+	)

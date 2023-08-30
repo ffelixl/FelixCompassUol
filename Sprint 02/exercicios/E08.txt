@@ -1,0 +1,10 @@
+Apresente a query para listar o código e o nome do vendedor com maior número de vendas (contagem), e que estas vendas estejam com o status concluída:
+
+select cdvdd, nmvdd from (
+	select *, count(*) as vendas_vend from tbvendas as vas inner join
+	tbvendedor as ven on vas.cdvdd = ven.cdvdd
+	where vas.status = 'Concluído'
+	group by ven.cdvdd
+	order by vendas_vend desc
+	limit 1
+)

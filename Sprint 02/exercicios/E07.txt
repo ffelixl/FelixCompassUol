@@ -1,0 +1,6 @@
+Apresente a query para listar o nome dos autores com nenhuma publicação:
+
+select at.nome from autor as at LEFT join 
+livro as lv on 
+at.codautor = lv.autor 
+where lv.autor is null

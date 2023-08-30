@@ -1,0 +1,3 @@
+Apresente a query para listar os 10 livros mais caros:
+
+select titulo, valor from livro order by valor desc limit 10
