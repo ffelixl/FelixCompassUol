@@ -34,3 +34,4 @@ Nas subpastas da sprint 02, terão os códigos e imagens dos resultados da ativi
 ### Certificados
 
 * [Curso SQL](https://github.com/ffelixl/FelixCompassUol/blob/main/Sprint%2002/certificados/certificado%20curso%20sql.jpg)
+* [Curso BIG DATA](https://github.com/ffelixl/FelixCompassUol/blob/main/Sprint%2002/certificados/certificado%20curso%20de%20big%20data.png)

@@ -1,9 +1,0 @@
-Apresente a query para listar as 5 editoras com mais livros na biblioteca:
-
-select count(editora) as quantidade, et.nome, en.estado, en.cidade 
-from livro as lv LEFT JOIN 
-editora as et on lv.editora = et.codeditora
-left join endereco as en on
-et.endereco = en.codEndereco
-group by editora
-order by quantidade desc

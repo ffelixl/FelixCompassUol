@@ -1,8 +1,0 @@
-Apresente a query para listar o autor com maior número de livros publicados:
-
-select au.codAutor, au.nome, count(autor) as quantidade_publicacoes
-from autor as au left join 
-livro as lv on au.codautor = lv.autor
-group by autor
-order by quantidade_publicacoes desc
-limit 1
