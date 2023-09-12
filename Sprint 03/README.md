@@ -5,21 +5,21 @@ e suas funções.
 
 ### Python - principais assuntos abordados:
 
-### Session 01
+### Session 01 - Conhecendo o Curso de Python
 * Apresentação do curso
 * Apresentação dos professores
 * Terminal e links uteis
 
-### Session 02
+### Session 02 - Introdução ao Python
 * O que é o python
 * Filosofia zen of python e PEP 8
 * O que é algoritmo, relembrando algoritmos e estruturas de dados
 
-### Session 03
+### Session 03 - Configuração do ambiente Python
 * Versões do python 
 * Instalação do python nos principais SOs
 
-### Session 04
+### Session 04 - Executando o Código Python
 * Executando código python em diversos ambiente como terminal, Anaconda e VSCode
 
 ### Session 05 - Fundamentos do Python
