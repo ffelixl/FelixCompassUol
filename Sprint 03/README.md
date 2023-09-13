@@ -82,14 +82,13 @@ e suas funções.
 * Iterator
 
 ### Session 16 - Gerenciamento de pacotes
-* Conferindo erro do PIP search 
 * PIP
 * Congelamento de pacotes
 
 ### Session 17 - Isolamento de ambientes
 * PIP e bibliotecas
 
-Nas subpastas da sprint 03, terão os códigos e imagens dos resultados da atividade da sprint referente.
+Na subpasta exercicios está o scrip de todas as atividades da sprint proposta pela udemy
 
 * 
 
