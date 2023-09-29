@@ -3,7 +3,7 @@
 Na sprint 03, foram abordados os principais assuntos sobre a linguagem de programação python
 e suas funções.
 
-### Python - principais assuntos abordados:
+## Python - principais assuntos abordados:
 
 ### Session 01 - Conhecendo o Curso de Python
 * Apresentação do curso
@@ -89,11 +89,12 @@ e suas funções.
 * PIP e instalação de bibliotecas em projetos separados
 * Bibliotecas especificas para cada projeto
 
+## Exercícios
 Na subpasta exercicios está o scrip de todas as atividades da sprint proposta pela udemy
 
 * [Pasta Exercicios](https://github.com/ffelixl/FelixCompassUol/tree/main/Sprint%2003/exercicios)
 
-### Certificados
+## Certificados
 
 * [Conclusão do curso de Python](https://github.com/ffelixl/FelixCompassUol/blob/main/Sprint%2003/certificados/certificado%20conclusao.JPG)
 * [Certificado de conlusão da sprint 03](https://github.com/ffelixl/FelixCompassUol/blob/main/Sprint%2003/certificados/Data%20%26%20Analytics%20-%20PB%20-%20AWS%203.jpg)
