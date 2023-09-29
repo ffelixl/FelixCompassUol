@@ -1,0 +1,3 @@
+docker build -t mascarar-dados .    #comando para criar a imagem chamada mascarar-dados apartir do arquivo Dockerfile que tem como base a imagem do python e a execução do script app.py
+
+docker run -it mascarar-dados    #Comando para rodar a imagem criada apartir do Dockerfile utilizando o script python e a imagem python como base

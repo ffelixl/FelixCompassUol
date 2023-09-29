@@ -1,0 +1,9 @@
+docker build . #fazer o build da imagem criada apartir da codigo carguru
+
+docker image ls  #listar as imagens presentes no meu pc para saber o id da image criada
+
+docker run --name meu_container_carguru 14d4 #Rodar um container com nome meu_container_carguru apartir da imagem criada com o dockerfile que tem como base a imagem do python e executando o codigo carguru.py tudo isso encapsulado dentro do container
+
+docker ps   #listar os containeres em execução
+
+docker ps -a   #listar todos os containeres já executados
