@@ -94,8 +94,9 @@ Na subpasta evidencias estará todos os prints de teste no ambiente da aws e res
 
 ### Certificados
 
-* ![Conclusão do curso 01](https://github.com/ffelixl/FelixCompassUol/blob/main/Sprint%2005/certificados/certificado1.pdf)
-* [Conclusão do curso 02]()
-* [Conclusão do curso 03]()
-* [Conclusão do curso 04]()
-* [Conclusão do curso 05]()
+* [Conclusão do curso 01](https://github.com/ffelixl/FelixCompassUol/blob/main/Sprint%2005/certificados/certificado1.pdf)
+* [Conclusão do curso 02](https://github.com/ffelixl/FelixCompassUol/blob/main/Sprint%2005/certificados/certificado2.pdf)
+* ![Emblema da aws cloud quest](https://github.com/ffelixl/FelixCompassUol/blob/main/Sprint%2005/evidencias/curso%20completo.JPG)
+* [Conclusão do curso 03](https://github.com/ffelixl/FelixCompassUol/blob/main/Sprint%2005/certificados/certificado3.pdf)
+* [Conclusão do curso 04](https://github.com/ffelixl/FelixCompassUol/blob/main/Sprint%2005/certificados/certificado4.pdf)
+* [Conclusão do curso 05](https://github.com/ffelixl/FelixCompassUol/blob/main/Sprint%2005/certificados/certificado5.pdf)
