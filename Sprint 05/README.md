@@ -90,9 +90,12 @@ No curso também se aborda como lidar com as objeções do cliente de Maria, al�
 
 Na subpasta evidencias estará todos os prints de teste no ambiente da aws e respostas das atividades do jogo.
 
-* [Pasta evidencias]()
+* [Pasta Evidencias](https://github.com/ffelixl/FelixCompassUol/tree/main/Sprint%2005/evidencias)
 
 ### Certificados
 
-* [Conclusão do curso de Python, docker e estatística]()
-* [Certificado de conlusão da sprint 04]()
+* ![Conclusão do curso 01](https://github.com/ffelixl/FelixCompassUol/blob/main/Sprint%2005/certificados/certificado1.pdf)
+* [Conclusão do curso 02]()
+* [Conclusão do curso 03]()
+* [Conclusão do curso 04]()
+* [Conclusão do curso 05]()
