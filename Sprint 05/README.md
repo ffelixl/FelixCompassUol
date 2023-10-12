@@ -85,7 +85,36 @@ O curso aborda de uma forma pratica a conversa entre Maria que seria uma revende
 * Também se aborda os principais serviços de rede da aws como:
   * Amazon virtual cloud private ou VPC – que cria uma rede virtual na nuvem com recursos avançados como grupo de segurança que controla o acesso as instancias e listas de controle de acesso a rede (NACL) que controla o acesso as sub-redes.
   * Amazon route 53 – serviço de DNS altamente dimensionável que direciona os usuários finais para aplicativos da internet convertendo nomes legíveis em endereços IPs.
-No curso também se aborda como lidar com as objeções do cliente de Maria, além de fases que devem ser seguidas para compreender os problemas do cliente e apresentar uma solução condizente com os problemas do cliente e apresentar uma POC (prova de conceito) em que o cliente analisará a solução em seu ambiente testando a mesma. Também está presente conceitos de benefícios e recursos da rede de parceiros da aws o aws partner network. Tudo isso para um planejamento da migração para a nuvem eficaz e de acordo com as demandas dos clientes. 
+No curso também se aborda como lidar com as objeções do cliente de Maria, além de fases que devem ser seguidas para compreender os problemas do cliente e apresentar uma solução condizente com os problemas do cliente e apresentar uma POC (prova de conceito) em que o cliente analisará a solução em seu ambiente testando a mesma. Também está presente conceitos de benefícios e recursos da rede de parceiros da aws o aws partner network. Tudo isso para um planejamento da migração para a nuvem eficaz e de acordo com as demandas dos clientes.
+
+
+##  Exame preparatório para certificação:
+
+No curso de exame preparatório é abordado novamente os principais conceitos de computação na nuvem como: 
+Modelo de Precificação: A AWS opera com um modelo de precificação flexível, onde os clientes pagam apenas pelos recursos que utilizam. Isso inclui pagamento por uso (on-demand), reservas de capacidade, e instâncias dedicadas, permitindo que os clientes otimizem seus custos de acordo com suas necessidades.
+
+Escala Global: A AWS opera em uma escala global, com data centers distribuídos em várias regiões ao redor do mundo. Isso permite aos clientes implantar aplicativos e armazenar dados em locais estratégicos para atender às necessidades de seus usuários finais, ao mesmo tempo em que oferece alta disponibilidade e desempenho.
+
+Economias de Escala: A AWS aproveita economias de escala devido ao seu grande número de clientes e à demanda global por serviços em nuvem. Isso permite à AWS oferecer preços competitivos e reduções de custos à medida que a infraestrutura e a tecnologia evoluem.
+
+Capacidade Elástica: Os clientes da AWS podem escalar vertical ou horizontalmente sua infraestrutura de TI de acordo com as demandas do negócio. Eles podem aumentar ou diminuir a capacidade de computação, armazenamento e outros recursos conforme necessário, pagando apenas pelos recursos utilizados.
+
+Opex vs. Capex: A AWS oferece a opção de mover os custos de capital (Capex) associados à compra e manutenção de hardware e infraestrutura para despesas operacionais (Opex), proporcionando flexibilidade financeira às organizações.
+
+Programas de Economia: A AWS oferece programas de economia, como instâncias reservadas e economias por compromisso, que permitem aos clientes obter descontos significativos em troca de compromissos de uso a longo prazo.
+
+Ecossistema e Marketplace: A AWS possui um ecossistema robusto de parceiros e um marketplace onde os clientes podem acessar uma ampla variedade de soluções pré-configuradas e serviços de terceiros, proporcionando maior agilidade e eficiência nos desenvolvimentos de TI.
+
+também relembra novamente os principais conceitos a respeito de segurança na aws como: 
+Responsabilidade Compartilhada: A AWS segue o modelo de responsabilidade compartilhada, onde a responsabilidade pela segurança é compartilhada entre a AWS e o cliente. A AWS é responsável pela segurança da infraestrutura subjacente, enquanto o cliente é responsável pela segurança de seus dados e aplicativos.
+
+IAM (Identity and Access Management): A IAM na AWS permite o gerenciamento de identidades e permissões para usuários, grupos e papéis, garantindo o princípio do menor privilégio e uma forte política de acesso.
+
+Criptografia: A AWS oferece opções abrangentes de criptografia para dados em trânsito e em repouso. Isso inclui o uso de SSL/TLS para comunicações seguras e criptografia de dados armazenados nos serviços da AWS.
+
+Network Security: A AWS oferece recursos como Amazon Virtual Private Cloud (VPC), Security Groups e Network Access Control Lists (ACLs) para ajudar a controlar o tráfego de rede e proteger as aplicações.
+
+Aborda-se também a respeito de taxação dos recursos da aws. o curso é de suma importância porque usa o modelo de como serão as questões presentes no exame de certificação da aws, além de abordar a teoria, nos prepara com questões resolvidas e mapas mentais para fortalecer os conteúdos abordados até aqui.
 
 
 Na subpasta evidencias estará todos os prints de teste no ambiente da aws e respostas das atividades do jogo.
