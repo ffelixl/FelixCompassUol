@@ -49,7 +49,7 @@ Na subpasta evidencias estará todos os prints de respostas das atividades e a r
 
 ### Certificados
 
-* [Conclusão do curso 01](hhttps://github.com/ffelixl/FelixCompassUol/blob/main/Sprint%2006/certificados/certificado%2001.pdf)
+* [Conclusão do curso 01](https://github.com/ffelixl/FelixCompassUol/blob/main/Sprint%2006/certificados/certificado%2001.pdf)
 * [Conclusão do curso 02](https://github.com/ffelixl/FelixCompassUol/blob/main/Sprint%2006/certificados/certificado%2002.pdf)
 * [Conclusão do curso 03](https://github.com/ffelixl/FelixCompassUol/blob/main/Sprint%2006/certificados/certificado%2003.pdf)
 * [Conclusão do curso 04](https://github.com/ffelixl/FelixCompassUol/blob/main/Sprint%2006/certificados/certificado%2004.pdf)
@@ -61,4 +61,6 @@ Na subpasta evidencias estará todos os prints de respostas das atividades e a r
 * [Conclusão do curso 10](https://github.com/ffelixl/FelixCompassUol/blob/main/Sprint%2006/certificados/certificado%2010.pdf)
 * [Conclusão do curso 11](https://github.com/ffelixl/FelixCompassUol/blob/main/Sprint%2006/certificados/certificado%2011.pdf)
 * [Conclusão do curso 12](https://github.com/ffelixl/FelixCompassUol/blob/main/Sprint%2006/certificados/certificado%2012.pdf)
-* [Conclusão do curso 13](https://github.com/ffelixl/FelixCompassUol/blob/main/Sprint%2006/certificados/certificado%2013.pdf)
+* [Conclusão do curso 13](https://github.com/ffelixl/FelixCompassUol/blob/main/Sprint%2006/certificados/certificado%2013.png)
+
+Os corpos dos cursos estão sem anotações porque não foi solicitado, o tempo estava meio curto também portanto não adicionei nada, mas porteriomente irei adicionar os principais pontos abordados de cada curso!!
