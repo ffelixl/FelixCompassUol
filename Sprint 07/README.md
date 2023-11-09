@@ -65,11 +65,11 @@ Compreensão de práticas recomendadas e ajustes de configuração.
 Na subpasta evidencias estará todos os prints de respostas das atividades e a realização das mesmas!!
 Na subpasta exercicios estará os scripts das atividades e outros arquivos necessários
 
-* [Pasta Evidencias](https://github.com/ffelixl/FelixCompassUol/tree/main/Sprint%2006/evidencias)
-* [Pasta Exercicios]()
+* [Pasta Evidencias](https://github.com/ffelixl/FelixCompassUol/tree/main/Sprint%2007/evidencias)
+* [Pasta Exercicios](https://github.com/ffelixl/FelixCompassUol/tree/main/Sprint%2007/exercicios)
 
 ### Certificados
 
-* [Conclusão do curso 01](https://github.com/ffelixl/FelixCompassUol/blob/main/Sprint%2006/certificados/certificado%2001.pdf)
+* [Conclusão dos dois cursos](https://github.com/ffelixl/FelixCompassUol/blob/main/Sprint%2007/certificados/certificados.png)
 
 
