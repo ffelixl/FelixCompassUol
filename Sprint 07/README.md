@@ -63,7 +63,8 @@ Estratégias para otimizar o desempenho de trabalhos PySpark.
 Compreensão de práticas recomendadas e ajustes de configuração.
 
 Na subpasta evidencias estará todos os prints de respostas das atividades e a realização das mesmas!!
-Na subpasta exercicios estará os scripts das atividades e outros arquivos necessários
+Na subpasta exercicios estará os scripts das atividades e outros arquivos necessários!!
+os arquivos csv são grandes e o git não permitiu realizar o upload dos mesmos!
 
 * [Pasta Evidencias](https://github.com/ffelixl/FelixCompassUol/tree/main/Sprint%2007/evidencias)
 * [Pasta Exercicios](https://github.com/ffelixl/FelixCompassUol/tree/main/Sprint%2007/exercicios)
