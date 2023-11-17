@@ -22,8 +22,8 @@ Na sprint 08, demos inicio a parte do desafio final, em que precisamos recuperar
 
 * Logo em seguida subi o código que tinha feito localmente inicialmente para testes locais na função lambda e com isso demonstrado os resultados conforme o video na pasta de exercicios.
 
-* [Pasta Evidencias](https://github.com/ffelixl/FelixCompassUol/tree/main/Sprint%2007/evidencias)
-* [Pasta Exercicios](https://github.com/ffelixl/FelixCompassUol/tree/main/Sprint%2007/exercicios)
+* [Pasta Evidencias](https://github.com/ffelixl/FelixCompassUol/tree/main/Sprint%2008/Evidencias)
+* [Pasta Exercicios](https://github.com/ffelixl/FelixCompassUol/tree/main/Sprint%2008/Exercicios)
 
 
 
