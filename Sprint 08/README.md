@@ -4,7 +4,7 @@
 
 Na sprint 08, demos inicio a parte do desafio final, em que precisamos recuperar dados da api do TMDB ou the movie database e mandar os arquivos json diretamente para nosso data-lake no s3!
 
-## Passa a passo para se chegar no resultado esperado:
+## Passa a passo para se chegar no resultado esperado - primeira semana:
 
 * Inicialmente precisamos criar uma conta no site do TMDB que hospeda informações sobre filmes e séries basicamente, para podermos fazer o uso da api e recuperarmos informações sobre os mesmos!
 
@@ -22,6 +22,11 @@ Na sprint 08, demos inicio a parte do desafio final, em que precisamos recuperar
 
 * Logo em seguida subi o código que tinha feito localmente inicialmente para testes locais na função lambda e com isso demonstrado os resultados conforme o video na pasta de exercicios.
 
+## Exercicios de spark - segunda semana:
+
+* Bom, na segunda semana foi mais tranquilo, onde tivemos os exercicios de spark e aprofundamento mais sobre o framework do spark para manipulação de dataframes e execução de consultas sql através da api do spark, tivemos a experiência de gerar e trabalhar com uma quantidade relativamento boa de dados, além de gerar novas colunas para o dataframe e também ir preenchendo o mesmo com informações relevantes para fins de testes, executamos várias consultas no mesmo e podemos obter alguns resultados como está presente na pasta de evidencias na situada sprint, ressalta-se que os resultados do passo 7 é o mesmo do passo 6 e os resultados do passo 9 é o mesmo do passo 8 por isso não foram mostrados também o que muda é apenas a forma de consulta no código, de resto é isso, os códigos das atividades da segunda semana estão presente na pasta Exercicios, é isso, obrigado!  
+
+* [Pasta Certificados](https://github.com/ffelixl/FelixCompassUol/tree/main/Sprint%2008/Certificados)
 * [Pasta Evidencias](https://github.com/ffelixl/FelixCompassUol/tree/main/Sprint%2008/Evidencias)
 * [Pasta Exercicios](https://github.com/ffelixl/FelixCompassUol/tree/main/Sprint%2008/Exercicios)
 
