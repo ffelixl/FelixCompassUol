@@ -1,0 +1,70 @@
+-- Dimensão Vendedor
+CREATE VIEW dimvendedor AS
+SELECT
+    idvendedor AS idVendedor,
+    nomevendedor AS nomeVendedor,
+    sexovendedor AS sexoVendedor,
+    estadovendedor AS estadoVendedor
+FROM vendedor;
+
+-- Dimensão Cliente
+CREATE VIEW dimcliente AS 
+SELECT
+    idcliente AS idCliente,
+    nomecliente AS nomeCliente,
+    cidadecliente AS cidadeCliente,
+    estadocliente AS estadoCliente,
+    paiscliente AS paisCliente
+FROM cliente;
+
+-- Dimensão Carro
+CREATE VIEW dimcarro AS 
+SELECT
+    idcarro AS idCarro,
+    classicarro AS classiCarro,
+    marcacarro AS marcaCarro,
+    modelocarro AS modeloCarro,
+    anocarro AS anoCarro,
+    idcombustivel AS idCombustivel,
+    tipocombustivel AS tipoCombustivel
+FROM carro;
+
+-- Dimensão Tempo
+CREATE VIEW dimtempo AS 
+SELECT
+    idlocacao AS idLocacao,
+    datalocacao AS dataLocacao,
+    horalocacao AS horaLocacao,
+    dataentrega AS dataEntrega,
+    horaentrega AS horaEntrega,
+    SUBSTR(datalocacao, 1, 4) AS anoLocacao,
+    SUBSTR(datalocacao, 5, 2) AS mesLocacao,
+    SUBSTR(datalocacao, 7, 2) AS diaLocacao,
+    SUBSTR(dataentrega, 1, 4) AS anoEntrega,
+    SUBSTR(dataentrega, 5, 2) AS mesEntrega,
+    SUBSTR(dataentrega, 7, 2) AS diaEntrega
+FROM locacao;
+
+
+-- Tabela de Fato Locacao
+CREATE VIEW fatolocacao AS 
+SELECT
+    l.idlocacao AS idLocacao,
+    v.idvendedor AS idVendedor,
+    c.idcliente AS idCliente,
+    ca.idcarro AS idCarro,
+    l.kmcarro AS kmCarro,
+    l.qtddiaria AS qtdDiaria,
+    l.vlrdiaria AS vlrDiaria
+FROM locacao l
+JOIN dimvendedor v ON l.pkvendedor = v.idVendedor
+JOIN dimcliente c ON l.pkcliente = c.idCliente
+JOIN dimcarro ca ON l.pkcarro = ca.idCarro
+JOIN dimtempo t ON l.idlocacao = t.idLocacao;
+
+
+SELECT * from dimvendedor
+SELECT * from dimcliente
+select * from dimcarro
+select * from dimtempo
+select * from dimtempo as d inner join fatolocacao as fl on 
