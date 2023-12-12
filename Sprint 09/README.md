@@ -26,8 +26,8 @@ Na sprint 09, foram utilizados os conceitos spark e ETL para preparação dos da
 Na subpasta evidencias estará todos os prints de respostas das atividades e a realização das mesmas!!
 Na subpasta exercicios estará os scripts das atividades e outros arquivos necessários!!
 
-* [Pasta Evidencias](https://github.com/ffelixl/FelixCompassUol/tree/main/Sprint%2009/evidencias)
-* [Pasta Exercicios](https://github.com/ffelixl/FelixCompassUol/tree/main/Sprint%2009/exercicios)
+* [Pasta Evidencias](https://github.com/ffelixl/FelixCompassUol/tree/main/Sprint%2009/Evidencias)
+* [Pasta Exercicios](https://github.com/ffelixl/FelixCompassUol/tree/main/Sprint%2009/Exercicios)
 
 ### Certificados
 
