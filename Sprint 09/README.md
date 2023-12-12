@@ -31,6 +31,6 @@ Na subpasta exercicios estará os scripts das atividades e outros arquivos neces
 
 ### Certificados
 
-* [Conclusão dos dois cursos](https://github.com/ffelixl/FelixCompassUol/blob/main/Sprint%2009/certificados/certificados.png)
+* [Conclusão da sprint](https://github.com/ffelixl/FelixCompassUol/blob/main/Sprint%2009/Certificados/certificado%20sprint09.pdf)
 
 
